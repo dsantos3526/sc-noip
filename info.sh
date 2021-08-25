@@ -4,8 +4,7 @@ clear
 neofetch
 echo -e    ""
 echo -e    ""
-echo -e    "  Information Systems VPS :"
-echo -e    ""
+echo -e    "  Information System VPS :"
 ISP=$(curl -s ipinfo.io/org | cut -d " " -f 2-10 )
 CITY=$(curl -s ipinfo.io/city )
 WKT=$(curl -s ipinfo.io/timezone )
@@ -26,3 +25,4 @@ IPVPS=$(curl -s ipinfo.io/ip )
     echo -e    "    \e[032;1mCity:\e[0m $CITY"
     echo -e    "    \e[032;1mTime:\e[0m $WKT"
     echo -e    "    \e[033;1mIPVPS:\e[0m $IPVPS"
+echo -e    ""
