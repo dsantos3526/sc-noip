@@ -4,7 +4,6 @@ clear
 neofetch
 
 
-    Infomation VPS :
 
 ISP=$(curl -s ipinfo.io/org | cut -d " " -f 2-10 )
 CITY=$(curl -s ipinfo.io/city )
