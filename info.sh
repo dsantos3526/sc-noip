@@ -26,3 +26,5 @@ IPVPS=$(curl -s ipinfo.io/ip )
     echo -e    "    \e[032;1mTime:\e[0m $WKT"
     echo -e    "    \e[033;1mIPVPS:\e[0m $IPVPS"
 echo -e    ""
+echo -e    ""
+
