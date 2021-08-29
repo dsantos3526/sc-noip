@@ -59,5 +59,5 @@ echo -e "PAYLOAD"
 echo -e "GET / HTTP/1.1[crlf]Host: $domain[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]"
 echo -e "==============================="
 echo -e "Expired On      : $exp"
-echo -e "Script Install  : Liufey"
+echo -e "Script Install  : e-jhoy"
 
