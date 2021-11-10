@@ -17,7 +17,7 @@ apt-get install ruby
 gem install lolcat
 apt-get install figlet
 cd /usr/bin
-wget -O menu "https://raw.githubusercontent.com/jhoy-id/sc-noip/main/update/menu.sh"
+wget -O menu "https://raw.githubusercontent.com/jhoy-id/sc-noipe/main/update/menu.sh"
 wget -O l2tp "https://raw.githubusercontent.com/jhoy-id/sc-noip/main/update/l2tp.sh"
 wget -O ssh "https://raw.githubusercontent.com/jhoy-id/sc-noip/main/update/ssh.sh"
 wget -O ssssr "https://raw.githubusercontent.com/jhoy-id/sc-noip/main/update/ssssr.sh"
