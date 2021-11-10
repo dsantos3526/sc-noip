@@ -87,7 +87,7 @@ echo ""
 echo -e "${GREEN}Done Installing OHP Server${NC}"
 echo -e "Port OVPN OHP TCP: $ohpp"
 echo -e "Link Download OVPN OHP: http://$MYIP:81/tcp-ohp.ovpn"
-echo -e "Script By BokirTampan
+echo -e "Script By Liufey"
 © 2021 GitHub, Inc.
 Terms
 Privacy
